@@ -18,7 +18,7 @@ User do not need to register or login to view the joke or vote for the joke.
 
 ## Technical Note
 App will use cookie to track if a user has voted for a joke.
-It is okay if the user clears his cookie and votes again.
+It is okay if the user clears his 'cookie' and votes again.
 
 ## Rules
 Coder will be given a project to code and the code will be the basis of evaluation. Coder is expected to follow the rules below:
